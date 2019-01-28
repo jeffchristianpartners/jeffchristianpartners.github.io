@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?gd1jm4');
+  src:  url('fonts/icomoon.eot?gd1jm4#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?gd1jm4') format('truetype'),
+    url('fonts/icomoon.woff?gd1jm4') format('woff'),
+    url('fonts/icomoon.svg?gd1jm4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="bsicon-"], [class*=" bsicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bsicon-award-star-with-olive-branches:before {
+  content: "\e900";
+}
+.bsicon-box:before {
+  content: "\e901";
+}
+.bsicon-left-quote:before {
+  content: "\e902";
+}
+.bsicon-mail-black-envelope-symbol:before {
+  content: "\e903";
+}
+.bsicon-pack:before {
+  content: "\e904";
+}
+.bsicon-package:before {
+  content: "\e905";
+}
+.bsicon-phone-receiver:before {
+  content: "\e906";
+}
+.bsicon-placeholder:before {
+  content: "\e907";
+}
+.bsicon-right-quotation-sign:before {
+  content: "\e908";
+}
+.bsicon-rocket-icon:before {
+  content: "\e909";
+}
+.bsicon-send:before {
+  content: "\e90a";
+}
+.bsicon-smile:before {
+  content: "\e90b";
+}
+.bsicon-telephone:before {
+  content: "\e90c";
+}
+.bsicon-user-male-black-shape:before {
+  content: "\e90d";
+}
