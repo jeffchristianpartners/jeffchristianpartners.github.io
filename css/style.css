@@ -66,7 +66,7 @@
 }
 
 body {
-  font-family: "Arimo", sans-serif;
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #282828;
   font-size: 15px;
   line-height: 28px;
@@ -232,12 +232,12 @@ a:active {
 }
 .header-home-one .header-top .header-right-info .single-header-right .text-box h4 {
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 15px;
 }
 .header-home-one .header-top .header-right-info .single-header-right .text-box p {
-  font-family: 'Lato';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 13px;
   letter-spacing: .03px;
 }
@@ -277,7 +277,7 @@ a:active {
   color: #fff;
   font-size: 13px;
   font-weight: 700;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   display: inline-block;
   padding: 17px 36px;
   background: #1193d4;
@@ -313,7 +313,7 @@ a:active {
   color: #1193d4;
 }
 .header-one-navigation ul.navigation-box > li > a {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 700;
   font-size: 13px;
   color: #fff;
@@ -351,7 +351,7 @@ a:active {
 .header-one-navigation ul.navigation-box > li > ul.sub-menu > li > a {
   font-size: 13px;
   color: #fff;
-  font-family: "Open Sans", sans-serif;
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 400;
   padding: 9px 0;
   display: block;
@@ -373,7 +373,7 @@ a:active {
 * 4 banner styles 
 ***************************/
 .rev_slider .banner-caption-h1 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #fff;
   font-weight: 800;
   font-size: 48px;
@@ -383,7 +383,7 @@ a:active {
   color: #1193d4;
 }
 .rev_slider .banner-caption-h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #fff;
   font-weight: 400;
   font-size: 35px;
@@ -407,7 +407,7 @@ a:active {
 .rev_slider .banner-btn {
   border-radius: 4px;
   background: #1193d4;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: bold !important;
   text-transform: uppercase;
   letter-spacing: .01em;
@@ -466,7 +466,7 @@ a:active {
 .service-section .single-service-wrapper .single-service-content h3 {
   text-transform: uppercase;
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 18px;
   letter-spacing: .03em;
@@ -554,7 +554,7 @@ a:active {
 .service-details-section .single-service-details-content .text-box h3 {
   text-transform: uppercase;
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 22px;
   margin: 0;
@@ -571,7 +571,7 @@ a:active {
   text-transform: uppercase;
   color: #1193d4;
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-style: italic;
   text-transform: uppercase;
 }
@@ -615,7 +615,7 @@ a:active {
 .service-details-section .tab-title li .text-box h3 {
   text-transform: uppercase;
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 16px;
   margin-bottom: 13px;
@@ -663,14 +663,14 @@ a:active {
   padding-top: 110px;
 }
 .welcome-section .title-box .tag-line {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: bold;
   font-size: 18px;
   color: #333333;
   margin-bottom: 10px;
 }
 .welcome-section .title-box .title-text {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   text-transform: uppercase;
   font-size: 35px;
@@ -725,10 +725,10 @@ a:active {
   font-size: 40px;
   font-weight: 800;
   letter-spacing: .03em;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
 }
 .welcome-section .funfact-wrapper .single-funfact .text-box span.name {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 13px;
   color: #1193D4;
@@ -795,7 +795,7 @@ a:active {
 .service-style-two .single-service-style-two .text-box h3 {
   text-transform: uppercase;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 18px;
   margin-bottom: 12px;
@@ -834,7 +834,7 @@ a:active {
 }
 .request-a-qoute .title h3 {
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #fff;
   font-weight: 800;
   font-size: 30px;
@@ -878,7 +878,7 @@ a:active {
   font-size: 13px;
   font-weight: 800;
   font-size: 13px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 5px;
   padding: 12.5px 44px;
   -webkit-transition: all .4s ease;
@@ -979,7 +979,7 @@ a:active {
 }
 .request-a-qoute form .availability .text-box h4 {
   color: #289DD8;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 15px;
   text-transform: uppercase;
@@ -1036,7 +1036,7 @@ a:active {
 .case-study-section .title h2 {
   color: #333333;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -1079,7 +1079,7 @@ a:active {
   margin: 0;
 }
 .case-study-section .single-case-study h3 {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 18px;
   color: #444444;
@@ -1095,7 +1095,7 @@ a:active {
   margin-bottom: 25px;
 }
 .case-study-section .single-case-study span.category {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 12px;
   font-style: italic;
   color: #888888;
@@ -1117,7 +1117,7 @@ a:active {
   font-size: 13px;
   font-weight: 800;
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 5px;
   padding: 12.5px 44px;
   -webkit-transition: all .4s ease;
@@ -1160,12 +1160,12 @@ a:active {
   text-transform: uppercase;
   font-size: 22px;
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   margin-bottom: 15px;
 }
 .case-study-details .case-details-content .case-study-details-header span.category {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 14px;
   font-style: italic;
   color: #888888;
@@ -1180,7 +1180,7 @@ a:active {
   text-transform: uppercase;
   font-size: 18px;
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   margin-bottom: 0px;
   margin-bottom: 20px;
@@ -1197,7 +1197,7 @@ a:active {
   text-transform: uppercase;
   font-size: 22px;
   color: #333333;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
 }
 .case-study-details .case-details-content ul.checklist,
@@ -1231,7 +1231,7 @@ a:active {
   color: #fff;
 }
 .subscribe-section .title h3 {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 24px;
 }
@@ -1265,7 +1265,7 @@ a:active {
   font-size: 12px;
   font-weight: 800;
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 16px 44px;
@@ -1301,7 +1301,7 @@ a:active {
 .our-partners .title h2 {
   color: #333333;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -1409,7 +1409,7 @@ a:active {
   margin: 0;
   text-transform: uppercase;
   color: #333333;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 35px;
 }
@@ -1471,7 +1471,7 @@ a:active {
 .pricing-header .title h2 {
   color: #fff;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -1554,7 +1554,7 @@ a:active {
 .pricing-section .single-pricing .price-box {
   color: #444444;
   font-size: 65px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   line-height: 65px;
 }
@@ -1565,7 +1565,7 @@ a:active {
   margin-right: 12px;
 }
 .pricing-section .single-pricing .title {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #444444;
   font-weight: 800;
   font-size: 18px;
@@ -1620,7 +1620,7 @@ a:active {
   font-size: 12px;
   font-weight: 700;
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 40px;
   padding: 12.5px 48px;
   -webkit-transition: all .4s ease;
@@ -1656,7 +1656,7 @@ a:active {
 .client-review-company-skill-section .title h2 {
   color: #333333;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -1730,7 +1730,7 @@ a:active {
   font-size: 22px;
   font-weight: 800;
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   letter-spacing: 0;
   vertical-align: middle;
 }
@@ -1767,14 +1767,14 @@ a:active {
   vertical-align: middle;
 }
 .client-review-company-skill-section .single-circle .text-box .inner .content span {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   color: #363636;
   font-size: 26px;
 }
 .client-review-company-skill-section .single-circle .text-box .inner .content h4 {
   color: #444444;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   margin: 0;
   font-size: 13px;
 }
@@ -1799,7 +1799,7 @@ a:active {
 .recent-news .title h2 {
   color: #333333;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -1843,7 +1843,7 @@ a:active {
 }
 .recent-news .single-blog-post .text-box .admin-name {
   color: #777777;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 13px;
   padding-top: 28px;
 }
@@ -1852,7 +1852,7 @@ a:active {
 }
 .recent-news .single-blog-post .text-box h3 {
   margin: 0;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #444444;
   font-weight: 800;
   font-size: 18px;
@@ -1938,7 +1938,7 @@ a:active {
 }
 .blog-details-section .blog-header-area .title-box .title-text-box .admin-name {
   color: #777777;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 13px;
 }
 .blog-details-section .blog-header-area .title-box .title-text-box .admin-name a {
@@ -1946,7 +1946,7 @@ a:active {
 }
 .blog-details-section .blog-header-area .title-box .title-text-box h3 {
   margin: 0;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   color: #444444;
   font-weight: 800;
   font-size: 18px;
@@ -2024,7 +2024,7 @@ a:active {
   text-transform: uppercase;
   font-size: 22px;
   color: #333333;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
 }
 .blog-details-section .blog-content-area .comment-box .title,
@@ -2035,7 +2035,7 @@ a:active {
 .blog-details-section .blog-content-area .leave-a-comment .title h3 {
   margin: 0;
   color: #333333;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 22px;
   text-transform: uppercase;
@@ -2069,7 +2069,7 @@ a:active {
 }
 .blog-details-section .blog-content-area .comment-box .single-comment-box .text-box h3 {
   margin: 0;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 17px;
   line-height: 28px;
   font-weight: bold;
@@ -2079,7 +2079,7 @@ a:active {
   color: #1193d4;
   font-size: 12px;
   line-height: 28px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   margin-left: 20px;
 }
 .blog-details-section .blog-content-area .comment-box .single-comment-box .text-box p {
@@ -2096,7 +2096,7 @@ a:active {
   background: #111111;
   color: #fff;
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   line-height: 34px;
   text-align: center;
   border-bottom-right-radius: 5px;
@@ -2151,7 +2151,7 @@ a:active {
   font-size: 13px;
   font-weight: 800;
   font-size: 13px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 5px;
   padding: 12.5px 44px;
   -webkit-transition: all .4s ease;
@@ -2175,7 +2175,7 @@ a:active {
 .inner-banner .title h3 {
   margin: 0;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 45px;
   font-weight: 800;
   text-transform: uppercase;
@@ -2183,13 +2183,13 @@ a:active {
 .inner-banner .bread-cumb a, .inner-banner .bread-cumb span.page-name {
   color: #fff;
   font-size: 15px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
 }
 .inner-banner .bread-cumb span.sep {
   margin-left: 6px;
   margin-right: 6px;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   display: inline-block;
 }
 
@@ -2210,7 +2210,7 @@ a:active {
 .login-register .title h2 {
   color: #333333;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 35px;
   text-transform: uppercase;
 }
@@ -2259,7 +2259,7 @@ a:active {
   font-size: 13px;
   font-weight: 800;
   font-size: 13px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 5px;
   padding: 11.5px 39px;
   -webkit-transition: all .4s ease;
@@ -2280,7 +2280,7 @@ a:active {
   vertical-align: middle;
   font-size: 12px;
   color: #333333;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   margin-left: 30px;
   margin-top: 10px;
 }
@@ -2344,7 +2344,7 @@ a:active {
 }
 .gallery-filter ul li span {
   display: block;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: bold;
   color: #444444;
   font-size: 13px;
@@ -2397,7 +2397,7 @@ a:active {
 .single-gallery-item .img-box .overlay .box .content h4 {
   margin: 0;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 18px;
   letter-spacing: .03em;
   font-weight: 800;
@@ -2435,7 +2435,7 @@ a:active {
   margin: 0;
   text-transform: uppercase;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 20px;
   font-weight: 800;
   letter-spacing: .03px;
@@ -2477,7 +2477,7 @@ a:active {
 }
 .footer-main .footer-widget.information .contact-info .single-contact-info .text-box h4 {
   color: #ffffff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 16px;
   text-transform: uppercase;
@@ -2534,7 +2534,7 @@ a:active {
 .footer-bottom .copy-text p {
   margin: 0;
   color: #bdbdbd;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 13px;
 }
 .footer-bottom .copy-text a {
@@ -2556,7 +2556,7 @@ a:active {
 .footer-bottom .footer-menu ul li a {
   display: block;
   color: #bbbbbb;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 13px;
   letter-spacing: .03em;
   -webkit-transition: all .4s ease;
@@ -2579,7 +2579,7 @@ a:active {
   max-width: 670px;
 }
 .coming-soon h3 {
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-size: 54px;
   color: #fff;
   margin: 0;
@@ -2625,11 +2625,11 @@ a:active {
   margin: 0;
   font-size: 28px;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
 }
 .coming-soon ul.countdown-box li .box span {
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   letter-spacing: .02em;
   color: #fff;
 }
@@ -2659,7 +2659,7 @@ a:active {
   font-size: 12px;
   font-weight: 800;
   font-size: 12px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 16px 44px;
@@ -2693,7 +2693,7 @@ a:active {
 .error-page .error-page-content .thm-container h3 {
   margin: 0;
   color: #fff;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: bold;
   font-size: 36px;
   margin-top: 20px;
@@ -2732,7 +2732,7 @@ a:active {
   font-size: 16px;
   font-weight: 800;
   font-size: 16px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 16px 23px;
@@ -2778,7 +2778,7 @@ a:active {
 .contact-form-wrapper .title h3 {
   margin: 0;
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   color: #444444;
   font-size: 22px;
@@ -2834,7 +2834,7 @@ a:active {
   font-size: 13px;
   font-weight: 800;
   font-size: 13px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   border-radius: 5px;
   padding: 12.5px 44px;
   -webkit-transition: all .4s ease;
@@ -2877,7 +2877,7 @@ a:active {
   font-size: 15px;
   color: #444444;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   text-transform: uppercase;
 }
 .contact-form-wrapper .contact-info .single-contact-info .text-box p {
@@ -2927,7 +2927,7 @@ a:active {
   font-size: 20px;
   text-transform: uppercase;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
 }
 .sidebar .single-sidebar.categories .title {
   margin-bottom: 21px;
@@ -3010,7 +3010,7 @@ a:active {
   font-size: 18px;
   font-weight: 800;
   text-transform: uppercase;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   letter-spacing: 0;
 }
 .sidebar .single-sidebar.recent-news-widget .title {
@@ -3031,7 +3031,7 @@ a:active {
   color: #444444;
   font-size: 14px;
   line-height: 20px;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: bold;
   letter-spacing: 0;
   -webkit-transition: all .4s ease;
@@ -3081,7 +3081,7 @@ a:active {
   font-size: 15px;
   color: #444444;
   font-weight: 800;
-  font-family: 'Open Sans';
+  font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   text-transform: uppercase;
 }
 .sidebar .single-sidebar.contact .contact-info .single-contact-info .text-box p {
