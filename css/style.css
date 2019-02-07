@@ -614,7 +614,7 @@ a:active {
 }
 .service-details-section .tab-title li .text-box h3 {
   text-transform: uppercase;
-  color: #444444;
+  color: light-blue;
   font-family: "FFScalaWeb", "Georgia", "Utopia", "Charter", serif;
   font-weight: 800;
   font-size: 16px;
