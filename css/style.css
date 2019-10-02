@@ -1073,6 +1073,7 @@ a:active {
   -webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
   padding-bottom: 38px;
+  max-width: "20%";
 }
 .case-study-section .single-case-study h3,
 .case-study-section .single-case-study p {
@@ -2355,6 +2356,12 @@ a:active {
 }
 .gallery-filter ul li span:hover {
   color: #1193d4;
+}
+
+.img-box2 {
+  width: 370px;
+  height: 215px;
+  overflow: hidden;
 }
 
 .single-gallery-item .img-box {
