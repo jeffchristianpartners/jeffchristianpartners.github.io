@@ -3224,3 +3224,9 @@ a:active {
 .rounded-circle {
   border-radius: 50% !important;
 }
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
